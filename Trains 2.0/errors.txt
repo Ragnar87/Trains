@@ -1,0 +1,57 @@
+Destination station does not exist Station
+Station of origin does not exist Station2
+Train departs before current time. Current time: 20 Train departure: 10
+Train departs after simulation has ended. Sim ends: 0 Train departure: 20
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Train already exists 3521
+Train already exists 3521
+Train already exists 3521
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Train already exists 3521
+Train already exists 3521
+Train already exists 3521
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Station of origin does not exist 
+Train departs before current time. Current time: 600 Train departure: 70
+Train departs before current time. Current time: 600 Train departure: 300
+Train departs before current time. Current time: 600 Train departure: 420
+Train departs after simulation has ended. Sim ends: 1200 Train departure: 1260
+Train departs after simulation has ended. Sim ends: 1200 Train departure: 1320

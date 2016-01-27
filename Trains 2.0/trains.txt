@@ -1,0 +1,8 @@
+Tvoroyri Klaksvik 70 170 1234 8 3 3 4 5
+Klaksvik Midvagur 300 110 2222 7 3 4 6 6
+Midvagur Torshavn 420 200 3521 7 4 4 6
+Torshavn Runavik 650 250 1252 7 3 3 3 5
+Runavik Klaksvik 780 140 1325 8 4 4 6
+Torshavn Tvoroyri 980 190 2254 8 6 6 6
+Tvoroyri Midvagur 1260 90 3698 8 6 4 4 4
+Tvoroyri Runavik 1320 250 2566 8 5 5 4

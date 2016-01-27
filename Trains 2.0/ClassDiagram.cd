@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FindStation" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAEAAAAQAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Railway.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FindTrain" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAAgg=</HashCode>
+      <FileName>Railway.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MockTrain" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgBAAAAEAAgAgAgAACAAIAIIAAigAAAAAAAABAAAIgA=</HashCode>
+      <FileName>Railway.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataFileReader&lt;T&gt;" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAABAEAAQAIAABAAAAAAAQAACAA=</HashCode>
+      <FileName>DataFileReader.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Event" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAAAAAEAAAAAAAAgAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>EventHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventComparison" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NotAssembledEvent" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAICAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IncompleteEvent" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAAAQAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssembledEvent" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAAAQAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>EventHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReadyEvent" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAAAQAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RunningEvent" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAICAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArrivedEvent" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAAAQAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>EventHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinishedEvent" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EventHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Railway" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAQAAAIAAABAwAAAAAAAIgAAAwAAAEAAAACAAAAAE=</HashCode>
+      <FileName>RailwayHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Simulation" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAQAAAAACAAKgAAgAAIAKAAAAABAIgAAA=</HashCode>
+      <FileName>SimulationHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stations" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAIAAAAgAAAAAAAAEAQEIQAABAAAAEAAAAAkA=</HashCode>
+      <FileName>StationHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeConverter" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAQAAAAAAAAA=</HashCode>
+      <FileName>TimeConverterHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Train" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SsAgAAAEoAAAgAgAAAACICAAQACgAAAEAAAAFAIAIkA=</HashCode>
+      <FileName>TrainHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAgAAAAAABBQAAgCAACCBAQEkgAAQAAAAAAIAAAA=</HashCode>
+      <FileName>UIHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wagons" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAAAAAAAAAAAAAAAAAAEQQABAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>WagonHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonWagon" Collapsed="true">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAIAAAAAQQABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WagonHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MotorWagon" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAQQABAAAAAAAAAAgAAEA=</HashCode>
+      <FileName>WagonHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreightWagon" Collapsed="true">
+    <Position X="1.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAQQABAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>WagonHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SleepWagon" Collapsed="true">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAFIAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WagonHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SittingWagon" Collapsed="true">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAEAAAAAAAAAAAIAAAIAQAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>WagonHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenFreightWagon" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAgAAAAAAIAAAAAQAAAAAAAACAAAAEAAAA=</HashCode>
+      <FileName>WagonHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClosedFreightWagon" Collapsed="true">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAQAAAAAIAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WagonHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElectricMotorWagon" Collapsed="true">
+    <Position X="11.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WagonHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DieselMotorWagon" Collapsed="true">
+    <Position X="9.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAABAAAAAAAQEA=</HashCode>
+      <FileName>WagonHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WagonPool" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAQAAAAQAAgAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>WagonPoolHeader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="State" Collapsed="true">
+    <Position X="16.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAAAAAAAAAAgAAAABQIAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>TrainHeader.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WagonType" Collapsed="true">
+    <Position X="18.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAJAAAAAIAAAAwAAAAAAAAAAAAAAAAAAAACACEA=</HashCode>
+      <FileName>WagonHeader.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
